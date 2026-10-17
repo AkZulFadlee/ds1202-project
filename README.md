@@ -22,6 +22,7 @@ How to Run
 Run the following commands in the terminal:
 
 cd ~/ds1202-project
+
 ./scripts/sysinfo.sh
 
 Technologies Used
